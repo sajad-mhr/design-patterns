@@ -6,6 +6,6 @@
 
 - [الگو های سازنده (Creational)](./CreationalPatterns/readme.md)
 - [الگو های ساختاری (Structural)](./StructuralPatterns/readme.md)
-- [الگو های رفتاری (Behavioral)]()
+- [الگو های رفتاری (Behavioral)](./BehavioralPatterns/readme.md)
 
 </div>
